@@ -61,7 +61,7 @@ pkg install python
 pip install mechanize requests bs4
 pkg install git
 rm -rf BXI-XR
-git clone https://github.com/X-R-404/BXI-XR. git
+git clone https://github.com/X-R-404/BXI-XR.git
 ```
 #### RUN SCRIPT
 ```shell
